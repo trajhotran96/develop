@@ -5,7 +5,7 @@ const App = () => {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
       <Text>
-        Try editing me! 🎉 99989991112222
+        Try editing me! 🎉 9998999111
       </Text>
     </View>
   );
